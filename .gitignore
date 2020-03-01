@@ -1,0 +1,9 @@
+*.svg
+
+#
+
+__pycache__/
+/venv/
+/virtualenv/
+*.swp
+.DS_Store
